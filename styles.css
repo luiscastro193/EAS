@@ -405,6 +405,7 @@ input:checked + label > h3 {
 	font-size: 15px;
 	font-weight: 600;
 	padding-left: 10px;
+	white-space: pre-line;
 }
 
 .index-back {
